@@ -1,5 +1,5 @@
 # dataguide
 
-Big data
-data science
+Big data, 
+data science, 
 machine learning
