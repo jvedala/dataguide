@@ -1,5 +1,3 @@
 # dataguide
 
-Big data, 
-data science, 
-machine learning
+Artificial Intelligence and Machine Learning
